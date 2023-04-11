@@ -1,0 +1,16 @@
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.exe
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.deps.json
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.json
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.dev.json
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.dll
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.pdb
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.AssemblyReference.cache
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfoInputs.cache
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfo.cs
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CoreCompileInputs.cache
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.dll
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\refint\19 - Biblioteca.dll
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
+E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll
