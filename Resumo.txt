@@ -1,8 +1,14 @@
 1) Adicionado tratamento de exceções (blocos try/catch) ao seu código.
 
 2) Implementado polimorfismo:
-    utilizando interfaces ou métodos virtuais e sobrescrita de métodos. O polimorfismo está presente ao implementar
-    a interface IPessoa e sobrescrever o método ExibirInformacoes() nas classes Cliente e Funcionario.
+    utilizando interfaces ou métodos virtuais e sobrescrita de métodos. O polimorfismo está presente
+    ao implementar a interface IPessoa e sobrescrever o método ExibirInformacoes() nas classes Cliente
+    e Funcionario.
 
-3) Classe abstrata: Para cumprir este requisito, podemos tornar a classe Pessoa abstrata, visto que não faz sentido 
+3) Classe abstrata: 
+    Para cumprir este requisito, podemos tornar a classe Pessoa abstrata, visto que não faz sentido 
     criar uma instância de Pessoa diretamente, mas sim de suas subclasses Cliente e Funcionario.
+
+4) Sobrecarga de métodos: 
+    Podemos adicionar um método sobrecarregado na classe Livro para exibir informações detalhadas e
+    básicas.
