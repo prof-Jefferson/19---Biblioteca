@@ -106,6 +106,55 @@ namespace Biblioteca
 					break;
 			}
 		}
+				
+		static void Consultas(Biblioteca biblioteca)
+		{
+			Console.Clear();
+			Console.WriteLine("Selecione uma opção de consulta:");
+			Console.WriteLine("1 - Listar clientes");
+			Console.WriteLine("2 - Listar livros");
+			Console.WriteLine("0 - Voltar");
+
+			int.TryParse(Console.ReadLine(), out int opcao);
+
+			switch (opcao)
+			{
+				case 1:
+					Console.Clear();
+					Console.WriteLine("Lista de Clientes:");
+
+					foreach (Cliente cliente in biblioteca.clientes)
+					{
+						Console.WriteLine($"ID: {cliente.Id}, Nome: {cliente.Nome}, Data de Nascimento: {cliente.DataNascimento:yyyy-MM-dd}, Telefone: {cliente.Telefone}");
+					}
+
+					Console.WriteLine("\nPressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+
+				case 2:
+					Console.Clear();
+					Console.WriteLine("Lista de Livros:");
+
+					foreach (Livro livro in biblioteca.livros)
+					{
+						Console.WriteLine($"ID: {livro.Id}, Título: {livro.Titulo}, Autor: {livro.Autor}, Disponível: {livro.Disponivel}");
+					}
+
+					Console.WriteLine("\nPressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+
+				case 0:
+					// Retorna ao menu principal
+					break;
+
+				default:
+					Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+			}
+		}
 		
 	}
 }
