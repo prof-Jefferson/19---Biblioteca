@@ -156,5 +156,55 @@ namespace Biblioteca
 			}
 		}
 		
+		static void Emprestimos(Biblioteca biblioteca)
+		{
+			Console.Clear();
+			Console.WriteLine("Selecione uma opção de empréstimo:");
+			Console.WriteLine("1 - Emprestar livro");
+			Console.WriteLine("2 - Devolver livro");
+			Console.WriteLine("0 - Voltar");
+
+			int.TryParse(Console.ReadLine(), out int opcao);
+
+			switch (opcao)
+			{
+				case 1:
+					Console.Clear();
+					Console.WriteLine("Empréstimo de Livro:");
+					Console.Write("ID do cliente: ");
+					int.TryParse(Console.ReadLine(), out int idCliente);
+					Console.Write("ID do livro: ");
+					int.TryParse(Console.ReadLine(), out int idLivro);
+
+					biblioteca.EmprestarLivro(idCliente, idLivro);
+
+					Console.WriteLine("Pressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+
+				case 2:
+					Console.Clear();
+					Console.WriteLine("Devolução de Livro:");
+					Console.Write("ID do cliente: ");
+					int.TryParse(Console.ReadLine(), out int idClienteDev);
+					Console.Write("ID do livro: ");
+					int.TryParse(Console.ReadLine(), out int idLivroDev);
+
+					biblioteca.DevolverLivro(idClienteDev, idLivroDev);
+
+					Console.WriteLine("Pressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+
+				case 0:
+					// Retorna ao menu principal
+					break;
+
+				default:
+					Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
+					Console.ReadKey();
+					break;
+			}
+		}				
 	}
 }
