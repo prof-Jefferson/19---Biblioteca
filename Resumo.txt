@@ -1,0 +1,5 @@
+1) Adicionado tratamento de exceções (blocos try/catch) ao seu código.
+
+2) Implementado polimorfismo:
+    utilizando interfaces ou métodos virtuais e sobrescrita de métodos. O polimorfismo está presente ao implementar
+    a interface IPessoa e sobrescrever o método ExibirInformacoes() nas classes Cliente e Funcionario.
