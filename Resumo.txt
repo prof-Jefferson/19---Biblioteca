@@ -27,3 +27,14 @@
 
 Parabéns! Com estas modificações, você agora cumpriu todos os requisitos do projeto.
 
+-- Ultimo Ajuste --
+    Adicionar chamadas para os métodos CarregarDados() e SalvarDados() na classe Program. Ao iniciar o 
+    programa, você chama CarregarDados(), e antes de sair do programa, você chama SalvarDados().
+    Agora, sempre que você iniciar o programa, ele tentará carregar os dados dos arquivos. Se os 
+    arquivos não existirem, o programa iniciará sem dados salvos. Além disso, antes de sair do programa,
+    ele salvará os dados nos arquivos.
+
+    Lembre-se de que os métodos CarregarDados() e SalvarDados() na classe Biblioteca já estão configurados
+    para lidar com a ausência dos arquivos, então você não precisa se preocupar com exceções caso os 
+    arquivos não existam.
+

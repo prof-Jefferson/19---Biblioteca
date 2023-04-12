@@ -6,44 +6,49 @@ namespace Biblioteca
 	class Program
 	{
 		static void Main(string[] args)
-		{
-			Biblioteca biblioteca = new Biblioteca();
+        {
+            Biblioteca biblioteca = new Biblioteca();
+            biblioteca.CarregarDados();
 
-			int opcao;
-			do
-			{
-				Console.Clear();
-				Console.WriteLine("Bem-vindo à Biblioteca");
-				Console.WriteLine("Selecione uma opção:");
-				Console.WriteLine("1 - Cadastro");
-				Console.WriteLine("2 - Consultas");
-				Console.WriteLine("3 - Empréstimos");
-				Console.WriteLine("4 - Devoluções");
-				Console.WriteLine("0 - Sair");
+            int opcao;
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Bem-vindo à Biblioteca");
+                Console.WriteLine("Selecione uma opção:");
+                Console.WriteLine("1 - Cadastro");
+                Console.WriteLine("2 - Consultas");
+                Console.WriteLine("3 - Empréstimos");
+                Console.WriteLine("4 - Devoluções");
+                Console.WriteLine("0 - Sair");
 
-				int.TryParse(Console.ReadLine(), out opcao);
+                int.TryParse(Console.ReadLine(), out opcao);
 
-				switch (opcao)
-				{
-					case 1:
-						Cadastro(biblioteca);
-						break;
-					case 2:
-						Consultas(biblioteca);
-						break;
-					case 3:
-						Emprestimos(biblioteca);
-						break;
-					case 0:
-						Console.WriteLine("Encerrando o sistema...");
-						break;
-					default:
-						Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
-						Console.ReadKey();
-						break;
-				}
-			} while (opcao != 0);
-		}
+                switch (opcao)
+                {
+                    case 1:
+                        Cadastro(biblioteca);
+                        break;
+                    case 2:
+                        Consultas(biblioteca);
+                        break;
+                    case 3:
+                        Emprestimos(biblioteca);
+                        break;
+                    case 4:
+                        Devolucoes(biblioteca);
+                        break;
+                    case 0:
+                        Console.WriteLine("Encerrando o sistema...");
+                        biblioteca.SalvarDados();
+                        break;
+                    default:
+                        Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
+                        Console.ReadKey();
+                        break;
+                }
+            } while (opcao != 0);
+        }
 				
 		static void Cadastro(Biblioteca biblioteca)
 		{
@@ -198,6 +203,21 @@ namespace Biblioteca
 					Console.ReadKey();
 					break;
 			}
-		}				
+		}
+		
+		static void Devolucoes(Biblioteca biblioteca)
+        {
+            Console.Clear();
+            Console.WriteLine("Devolução de Livro:");
+            Console.Write("ID do cliente: ");
+            int.TryParse(Console.ReadLine(), out int idCliente);
+            Console.Write("ID do livro: ");
+            int.TryParse(Console.ReadLine(), out int idLivro);
+
+            biblioteca.DevolverLivro(idCliente, idLivro);
+
+            Console.WriteLine("Pressione qualquer tecla para continuar...");
+            Console.ReadKey();
+        }				
 	}
 }
