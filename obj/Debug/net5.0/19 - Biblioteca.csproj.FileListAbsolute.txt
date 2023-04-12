@@ -14,3 +14,19 @@ E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug
 E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
 E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
 E:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.exe
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.deps.json
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.json
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.dev.json
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.dll
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\19 - Biblioteca.pdb
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.AssemblyReference.cache
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfoInputs.cache
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfo.cs
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CoreCompileInputs.cache
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.dll
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\refint\19 - Biblioteca.dll
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
+D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll

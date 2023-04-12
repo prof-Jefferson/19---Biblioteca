@@ -1,35 +1,56 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Biblioteca
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Biblioteca biblioteca = new Biblioteca();
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Biblioteca biblioteca = new Biblioteca();
 
-            // adicionando clientes
-            biblioteca.clientes.Add(new Cliente { Id = 1, Nome = "João", DataNascimento = new DateTime(1980, 01, 01), Telefone = "123456789" });
-            biblioteca.clientes.Add(new Cliente { Id = 2, Nome = "Maria", DataNascimento = new DateTime(1990, 02, 02), Telefone = "987654321" });
+			while (true)
+			{
+				Console.Clear();
+				Console.WriteLine("Bem-vindo à Biblioteca");
+				Console.WriteLine("Selecione uma opção:");
+				Console.WriteLine("1 - Cadastro");
+				Console.WriteLine("2 - Consultas");
+				Console.WriteLine("3 - Empréstimos");
+				Console.WriteLine("4 - Devoluções");
+				Console.WriteLine("0 - Sair");
 
-            // adicionando livros
-            biblioteca.livros.Add(new Livro { Id = 1, Titulo = "Dom Casmurro", Autor = "Machado de Assis", Disponivel = true });
-            biblioteca.livros.Add(new Livro { Id = 2, Titulo = "O Cortiço", Autor = "Aluísio Azevedo", Disponivel = true });
+				int.TryParse(Console.ReadLine(), out int opcao);
 
-            // emprestando um livro
-            biblioteca.EmprestarLivro(1, 1);
-
-            //devolvendo o livro emprestado
-            biblioteca.DevolverLivro(1, 1);
-
-            // chamada do método para iniciar o sistema
-            IniciarBiblioteca(biblioteca);
-        }
-
-        static void IniciarBiblioteca(Biblioteca biblioteca)
-        {
-            // aqui o sistema pode ser iniciado com outras chamadas de métodos da classe Biblioteca
-            biblioteca.EmprestarLivro(1, 1);
-        }
-    }
+				switch (opcao)
+				{
+					case 1:
+						// Aqui você pode chamar um método para lidar com cadastros
+						// Cadastro(biblioteca);
+						break;
+					case 2:
+						// Aqui você pode chamar um método para lidar com consultas
+						// Consultas(biblioteca);
+						break;
+					case 3:
+						// Aqui você pode chamar um método para lidar com empréstimos
+						// Emprestimos(biblioteca);
+						break;
+					case 4:
+						// Aqui você pode chamar um método para lidar com devoluções
+						// Devolucoes(biblioteca);
+						break;
+					case 0:
+						Console.WriteLine("Saindo...");
+						Environment.Exit(0);
+						break;
+					default:
+						Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
+						Console.ReadKey();
+						break;
+				}
+			}
+		}		
+		
+	}
 }

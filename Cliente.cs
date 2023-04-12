@@ -6,5 +6,11 @@ namespace Biblioteca
     {
         public int Id { get; set; }
         public string Telefone { get; set; }
+
+        public override void ExibirInformacoes()
+        {
+            base.ExibirInformacoes();
+            Console.WriteLine($"ID: {Id}\nTelefone: {Telefone}");
+        }
     }
 }

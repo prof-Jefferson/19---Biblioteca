@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Biblioteca\\19 - Biblioteca.csproj": {}
+    "D:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Aplicação Prática\\19 - Biblioteca\\19 - Biblioteca.csproj": {}
   },
   "projects": {
-    "E:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Biblioteca\\19 - Biblioteca.csproj": {
+    "D:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Aplicação Prática\\19 - Biblioteca\\19 - Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Biblioteca\\19 - Biblioteca.csproj",
+        "projectUniqueName": "D:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Aplicação Prática\\19 - Biblioteca\\19 - Biblioteca.csproj",
         "projectName": "19 - Biblioteca",
-        "projectPath": "E:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Biblioteca\\19 - Biblioteca.csproj",
+        "projectPath": "D:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Aplicação Prática\\19 - Biblioteca\\19 - Biblioteca.csproj",
         "packagesPath": "C:\\Users\\IFPR\\.nuget\\packages\\",
-        "outputPath": "E:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Biblioteca\\obj\\",
+        "outputPath": "D:\\IFPR\\Aulas\\Programação Orientada a Objetos\\CSharp\\19 - Aplicação Prática\\19 - Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IFPR\\AppData\\Roaming\\NuGet\\NuGet.Config",
