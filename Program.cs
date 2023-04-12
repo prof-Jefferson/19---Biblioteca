@@ -25,24 +25,16 @@ namespace Biblioteca
 				switch (opcao)
 				{
 					case 1:
-						// Aqui você pode chamar um método para lidar com cadastros
-						// Cadastro(biblioteca);
+						Cadastro(biblioteca);
 						break;
 					case 2:
-						// Aqui você pode chamar um método para lidar com consultas
-						// Consultas(biblioteca);
+						Consultas(biblioteca);
 						break;
 					case 3:
-						// Aqui você pode chamar um método para lidar com empréstimos
-						// Emprestimos(biblioteca);
-						break;
-					case 4:
-						// Aqui você pode chamar um método para lidar com devoluções
-						// Devolucoes(biblioteca);
+						Emprestimos(biblioteca);
 						break;
 					case 0:
-						Console.WriteLine("Saindo...");
-						Environment.Exit(0);
+						Console.WriteLine("Encerrando o sistema...");
 						break;
 					default:
 						Console.WriteLine("Opção inválida! Pressione qualquer tecla para continuar...");
