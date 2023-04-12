@@ -12,3 +12,18 @@
 4) Sobrecarga de métodos: 
     Podemos adicionar um método sobrecarregado na classe Livro para exibir informações detalhadas e
     básicas.
+
+5) Manipulação de arquivos: Você pode adicionar métodos para ler e gravar os dados das listas de 
+    clientes, livros e empréstimos em arquivos. Para simplificar, vou mostrar como fazer isso usando 
+    a biblioteca Newtonsoft.Json para serializar e desserializar os dados em formato JSON.
+    
+    Primeiro, instale o pacote Newtonsoft.Json usando o comando a seguir no terminal:
+    dotnet add package Newtonsoft.Json
+
+    Agora você pode chamar SalvarDados() e CarregarDados() na classe Program para persistir e carregar
+    os dados nos arquivos. Por exemplo, você pode carregar os dados no início do programa e salvar os 
+    dados antes de sair.
+
+
+Parabéns! Com estas modificações, você agora cumpriu todos os requisitos do projeto.
+
