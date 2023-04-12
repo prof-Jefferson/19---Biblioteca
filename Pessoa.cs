@@ -2,7 +2,7 @@ using System;
 
 namespace Biblioteca
 {
-    public class Pessoa : IPessoa
+    public abstract class Pessoa : IPessoa
     {
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
