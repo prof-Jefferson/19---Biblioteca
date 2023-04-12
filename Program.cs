@@ -9,7 +9,8 @@ namespace Biblioteca
 		{
 			Biblioteca biblioteca = new Biblioteca();
 
-			while (true)
+			int opcao;
+			do
 			{
 				Console.Clear();
 				Console.WriteLine("Bem-vindo à Biblioteca");
@@ -20,7 +21,7 @@ namespace Biblioteca
 				Console.WriteLine("4 - Devoluções");
 				Console.WriteLine("0 - Sair");
 
-				int.TryParse(Console.ReadLine(), out int opcao);
+				int.TryParse(Console.ReadLine(), out opcao);
 
 				switch (opcao)
 				{
@@ -41,9 +42,9 @@ namespace Biblioteca
 						Console.ReadKey();
 						break;
 				}
-			}			
+			} while (opcao != 0);
 		}
-		
+				
 		static void Cadastro(Biblioteca biblioteca)
 		{
 			Console.Clear();
