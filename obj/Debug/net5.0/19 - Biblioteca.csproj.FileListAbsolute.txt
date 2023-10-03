@@ -32,3 +32,21 @@ D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática
 D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll
 D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\IFPR\Aulas\Programação Orientada a Objetos\CSharp\19 - Aplicação Prática\19 - Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CopyComplete
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.exe
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.deps.json
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.json
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.dev.json
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.dll
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.pdb
+D:\Project\POO\CSharp\19---Biblioteca\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.AssemblyReference.cache
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfoInputs.cache
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfo.cs
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CoreCompileInputs.cache
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CopyComplete
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.dll
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\refint\19 - Biblioteca.dll
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
+D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll
