@@ -50,3 +50,21 @@ D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\refint\19 - Biblioteca.dl
 D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
 D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
 D:\Project\POO\CSharp\19---Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.exe
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.deps.json
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.json
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.runtimeconfig.dev.json
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.dll
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\19 - Biblioteca.pdb
+D:\Projetos\DotNET\19---Biblioteca\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.AssemblyReference.cache
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfoInputs.cache
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.AssemblyInfo.cs
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CoreCompileInputs.cache
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.csproj.CopyComplete
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.dll
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\refint\19 - Biblioteca.dll
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.pdb
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\19 - Biblioteca.genruntimeconfig.cache
+D:\Projetos\DotNET\19---Biblioteca\obj\Debug\net5.0\ref\19 - Biblioteca.dll

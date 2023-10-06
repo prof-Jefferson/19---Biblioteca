@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/TSUfVPzsOwuOvUPEmE2cph8nisv5Gvlz5MiIqLge2jQmwptQYVc2vDvy8BdAPWRdpA9Jo7Hku8HQdUptXX/fQ==",
+  "dgSpecHash": "5N6CC4mK5cT1CIIPMJEfFERoSTOTr9FtH31NUhSjSiNawxc55us/BiaBPyc6TwK6JGrDZcOv0Ggh1XB1tLk0jg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\POO\\CSharp\\19---Biblioteca\\19 - Biblioteca.csproj",
+  "projectFilePath": "D:\\Projetos\\DotNET\\19---Biblioteca\\19 - Biblioteca.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IFPR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\jeffj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
